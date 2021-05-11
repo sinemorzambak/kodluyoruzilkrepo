@@ -13,14 +13,10 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Projeyi cloneladıktan sonra terminale -code . yazarak açınız, insidersdaysanız -code-insiders .
 
-Linux için:
-
-> cd kodluyoruzilkrepo
-> code
 
 ## Contributing
 
-Pull requestlere bakılır. Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi belirlemek için bir konu açın.
+Pull requestlere bakılır.Lütfen önce neyi değiştirmek istediğinizi belirlemek için bir konu açın, öyle devam edin.
 
 ## License
 
